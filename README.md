@@ -1,2 +1,2 @@
-# dio-my-first-repository-challange
-Desafio de Projeto da DIO sobre Git/GitHub.
+# Desafio de Projeto da DIO sobre Git/GitHub
+Repositório criado para o _Desafio de Projeto_.
