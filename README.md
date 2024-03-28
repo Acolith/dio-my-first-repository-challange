@@ -11,3 +11,9 @@ Iniciei o **Primeiros Passos em Tecnologia** da **DIO**. Nele estou trilhando o 
 - _Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso_.
 
 Encerrando a primeira parte deste **Bootcamp**.
+
+# Desafio de Projeto da DIO sobre HTML
+Repositório com os _Desafio de Projeto_ sobre HTML.
+## O caminho até aqui
+Iniciei o **Primeiros Passos em Tecnologia** da **DIO**. Nele estou trilhando o seguinte percurso:
+- _Após a realização do processo acima realizei a construção de dois **Desafios de Código**, sendo os que estão aqui, básicos para demonstrar um pouco do que aprendi sobre HTML. Inicialmente, foi a construção de uma página simples, seguido de um desafio de uma página um pouco mais elaborada conforme o conteúdo avançou._
